@@ -31,7 +31,7 @@ Discover the basics of AI agents and how they work.
 - 📝 [How to learn about AI Agents](<https://www.projectpro.io/article/agentic-ai-learning-path/1091>)
 - 📝 [How Agentic AI Delivers ROI?](https://www.projectpro.io/podcast/title/business-benefits-of-agentic-ai)
 - 📝 [AI Agent Architectures](https://www.projectpro.io/article/ai-agent-architectures/1135)
-- 📝 [Agentic AI Design Patterns]<https://www.projectpro.io/article/agentic-ai-design-patterns/1126>
+- 📝 [Agentic AI Design Patterns](<https://www.projectpro.io/article/agentic-ai-design-patterns/1126>)
 
 ## **🌐 Types of AI Agents**
 
@@ -64,7 +64,7 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [MCP Implementation with RAG](<https://www.projectpro.io/article/mcp-with-rag/1144>)
 - 📝 [How to use the Microsoft Autogen framework to Build AI Agents?](<https://www.projectpro.io/article/autogen/1139>)
 - 📝 [How to Build Real-Time AI Agents with Langchain MCP?](<https://www.projectpro.io/article/langchain-mcp/1134>)
-- 📝 [How to Build AWS Bedrock Agents Step by Step?](https://www.projectpro.io/article/aws-bedrock-agents/1141>)
+- 📝 [How to Build AWS Bedrock Agents Step by Step?](<https://www.projectpro.io/article/aws-bedrock-agents/1141>)
   
 
 ## **🌟 Applications and Use Cases**  
