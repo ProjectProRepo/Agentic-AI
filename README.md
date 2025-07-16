@@ -32,7 +32,6 @@ Discover the basics of AI agents and how they work.
 - 📝 [How Agentic AI Delivers ROI?](https://www.projectpro.io/podcast/title/business-benefits-of-agentic-ai)
 - 📝 [AI Agent Architectures](https://www.projectpro.io/article/ai-agent-architectures/1135)
 - 📝 [Agentic AI Design Patterns](<https://www.projectpro.io/article/agentic-ai-design-patterns/1126>)
-- 📝 [How to Build AI Agents using n8n?](<https://www.projectpro.io/article/how-to-build-ai-agents-with-n8n/1147>)
 
 ## **🌐 Types of AI Agents**
 
@@ -46,6 +45,7 @@ Learn about the best tools and libraries for building AI agents.
 - 📝 [How to Use Langsmith with Hugging Face Models?](https://www.projectpro.io/article/langsmith/1122)
 - 📝 [LangChain vs LangGraph](https://www.projectpro.io/article/langchain-vs-langgraph/1123)
 - 📝 [How to Build Low-Code AI Projects with Langflow?](https://www.projectpro.io/article/langflow/1128)
+- 📝 [How to Build AI Agents using n8n?](<https://www.projectpro.io/article/how-to-build-ai-agents-with-n8n/1147>)
 
 ## **🧠 Building and Deploying AI Agents**  
 Step-by-step guides and tutorials to help you create robust AI agents.  
