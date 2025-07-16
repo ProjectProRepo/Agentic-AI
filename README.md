@@ -32,6 +32,7 @@ Discover the basics of AI agents and how they work.
 - 📝 [How Agentic AI Delivers ROI?](https://www.projectpro.io/podcast/title/business-benefits-of-agentic-ai)
 - 📝 [AI Agent Architectures](https://www.projectpro.io/article/ai-agent-architectures/1135)
 - 📝 [Agentic AI Design Patterns](<https://www.projectpro.io/article/agentic-ai-design-patterns/1126>)
+- 📝 [How to Build AI Agents using n8n?](<https://www.projectpro.io/article/how-to-build-ai-agents-with-n8n/1147>)
 
 ## **🌐 Types of AI Agents**
 
