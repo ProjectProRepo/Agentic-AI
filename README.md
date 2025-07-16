@@ -30,6 +30,8 @@ Discover the basics of AI agents and how they work.
 - 📝 [What are Agentic AI](<https://www.projectpro.io/article/ai-agents/1076>)
 - 📝 [How to learn about AI Agents](<https://www.projectpro.io/article/agentic-ai-learning-path/1091>)
 - 📝 [How Agentic AI Delivers ROI?](https://www.projectpro.io/podcast/title/business-benefits-of-agentic-ai)
+- 📝 [AI Agent Architectures](https://www.projectpro.io/article/ai-agent-architectures/1135)
+- 📝 [Agentic AI Design Patterns]<https://www.projectpro.io/article/agentic-ai-design-patterns/1126>
 
 ## **🌐 Types of AI Agents**
 
@@ -58,6 +60,12 @@ Step-by-step guides and tutorials to help you create robust AI agents.
 - 📝 [How to Build Agentic RAGs With Smolagents?](<https://www.projectpro.io/article/build-agentic-rags-with-smolagents/1094>)
 - 📝 [How to Build LangChain Agents?](<https://www.projectpro.io/article/how-to-build-langchain-agents/1099>)
 - 📝 [LangGraph Tutorial for Beginners to Build AI Agents](<https://www.projectpro.io/article/langgraph/1109>)
+- 📝 [How to Build a Conversational AI Agent with RASA AI?]<https://www.projectpro.io/article/conversational-ai-with-rasa/1143>
+- 📝 [MCP Implementation with RAG](<https://www.projectpro.io/article/mcp-with-rag/1144>)
+- 📝 [How to use the Microsoft Autogen framework to Build AI Agents?](<https://www.projectpro.io/article/autogen/1139>)
+- 📝 [How to Build Real-Time AI Agents with Langchain MCP?](<https://www.projectpro.io/article/langchain-mcp/1134>)
+- 📝 [How to Build AWS Bedrock Agents Step by Step?](https://www.projectpro.io/article/aws-bedrock-agents/1141>)
+  
 
 ## **🌟 Applications and Use Cases**  
 Explore how Agentic AI is transforming industries.  
@@ -67,7 +75,9 @@ Explore how Agentic AI is transforming industries.
 - 📝 [LangChain Projects](<https://www.projectpro.io/article/langchain-projects/959>)
 - 📝 [LLM Project Ideas](<https://www.projectpro.io/article/llm-project-ideas/881>)
 - 📝 [How to Build Agentic Workflows for AI Projects?](<https://www.projectpro.io/article/agentic-workflows/1092>)
-- 📝 [Top CrewAI Projects](https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)
+- 📝 [Top CrewAI Projects](<https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117>)
+- 📝 [MCP Projects](<https://www.projectpro.io/article/mcp-projects/1142>)
+- 📝 [Microsoft Autogen Projects](<https://www.projectpro.io/article/autogen-projects-and-examples/1129>)
 
 ## **🚀 Projects to Elevate Your Learning**  
 Hands-on learning is the best way to master Agentic AI! Start with these beginner-to-advanced projects.  
