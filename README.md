@@ -80,6 +80,8 @@ Explore how Agentic AI is transforming industries.
 - 📝 [MCP Projects](<https://www.projectpro.io/article/mcp-projects/1142>)
 - 📝 [Microsoft Autogen Projects](<https://www.projectpro.io/article/autogen-projects-and-examples/1129>)
 - 📝 [n8n Projects](<https://www.projectpro.io/article/n8n-projects/1148>)
+- 📝 [LangGraph Projects](<https://www.projectpro.io/article/langgraph-projects-and-examples/1124>)
+
 
 ## **🚀 Projects to Elevate Your Learning**  
 Hands-on learning is the best way to master Agentic AI! Start with these beginner-to-advanced projects.  
